@@ -138,3 +138,6 @@ check.RAR$max.prob.trt.arm #The probability that the best treatment arm is bette
 check.RAR$count.patients #The number of patients assigned to each treatment arm.
 sum(check.RAR$count.patients) #should sum up to 228
 
+
+
+
